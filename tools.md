@@ -4,8 +4,29 @@
 - [Firefox](http://www.firefox.com.cn/)
 
 
+# Database GUI | 数据库图形界面客户端
+- [MySQL Front](http://www.mysqlfront.de/) - MySQL 图形界面客户端
+- [Navicat](https://navicat.com) - Database GUI（数据库图形界面客户端）
+- [Keylord](https://protonail.com/) - Redis, Memcached 等数据库图形界面客户端
+- [Redis Desktop Manager](https://redisdesktop.com/)
+
+
 # Developer | 开发者工具
+- [Beyond Compare](http://scootersoftware.com/) - 文件和目录对比
+- [Clover](http://cn.ejie.me/) - 像 Chrome 一样使用 Windows 资源管理器
+- [Everything](http://www.voidtools.com/) - 文件管理
+- [GitBook](https://www.gitbook.com/) - Git 书籍在线版本管理
+- [Postman](https://www.getpostman.com/) - API 测试工具
 - [SourceTree](https://www.sourcetreeapp.com/) - Git GUI（Git 图形界面客户端）
+
+
+# Editor | 编辑器
+- [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [phpstorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
+- [Sublime](https://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Zend Studio](http://www.zend.com/en/products/studio)
 
 
 # Efficiency | 效率
@@ -21,6 +42,8 @@
 
 # Image tools | 图片工具
 - [easyicon](http://www.easyicon.net/) - 图标下载
+- [Faststone Capture](http://faststone.org/) - 截图录屏软件
+- [IrfanView](http://www.irfanview.com/) - 图片查看和编辑
 - [tinypng.com](https://tinypng.com/) - PNG格式图片在线压缩
 
 
@@ -35,7 +58,17 @@
 
 # PHP
 - [Composer](https://getcomposer.org/) - Dependency Manager for PHP（PHP依赖管理工具）
+- [wampserver](http://www.wampserver.com) - PHP 开发集成环境
 
 
 # SSH Client | SSH 客户端
+- [Bitvise SSH Client](https://www.bitvise.com)
 - [iTerm2](https://iterm2.com/) - MacOS
+- [SecureCRT](https://www.vandyke.com/products/securecrt/)
+- [XShell](http://www.netsarang.com/products/xsh_overview.html) - Windows
+
+
+# Other | 其他
+- [EasyBCD](http://neosmart.net/EasyBCD/) - 磁盘管理/多系统环境管理
+- [Potplayer](http://potplayer.daum.net) - 视频播放器
+- [SPlayer-射手播放器](https://splayer.org/)
