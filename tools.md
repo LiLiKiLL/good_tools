@@ -5,25 +5,25 @@
 
 
 # Database GUI | 数据库图形界面客户端
-- [MySQL Front](http://www.mysqlfront.de/) - MySQL 图形界面客户端
-- [Navicat](https://navicat.com) - Database GUI（数据库图形界面客户端）
-- [Keylord](https://protonail.com/) - Redis, Memcached 等数据库图形界面客户端
-- [Redis Desktop Manager](https://redisdesktop.com/)
+- [MySQL Front](http://www.mysqlfront.de/) - MySQL
+- [Navicat](https://navicat.com) - MySQL, MariaDB, SQL Server, SQLite, Oracle, PostgreSQL
+- [Keylord](https://protonail.com/) - Redis, Memcached, Bolt, LevelDB
+- [Redis Desktop Manager](https://redisdesktop.com/) - Redis
 
 
 # Developer | 开发者工具
 - [Beyond Compare](http://scootersoftware.com/) - 文件和目录对比
 - [Clover](http://cn.ejie.me/) - 像 Chrome 一样使用 Windows 资源管理器
-- [Everything](http://www.voidtools.com/) - 文件管理
-- [GitBook](https://www.gitbook.com/) - Git 书籍在线版本管理
+- [Everything](http://www.voidtools.com/) - Windows 文件快捷查找
+- [GitBook](https://www.gitbook.com/) - 使用 Git 对书籍、文档进行版本管理
 - [Postman](https://www.getpostman.com/) - API 测试工具
-- [SourceTree](https://www.sourcetreeapp.com/) - Git GUI（Git 图形界面客户端）
+- [SourceTree](https://www.sourcetreeapp.com/) - Git GUI
 
 
 # Editor | 编辑器
 - [Atom](https://atom.io/)
 - [Notepad++](https://notepad-plus-plus.org/)
-- [phpstorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
+- [phpstorm](https://www.jetbrains.com/phpstorm/)
 - [Sublime](https://www.sublimetext.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zend Studio](http://www.zend.com/en/products/studio)
@@ -44,7 +44,7 @@
 - [easyicon](http://www.easyicon.net/) - 图标下载
 - [Faststone Capture](http://faststone.org/) - 截图录屏软件
 - [IrfanView](http://www.irfanview.com/) - 图片查看和编辑
-- [tinypng.com](https://tinypng.com/) - PNG格式图片在线压缩
+- [tinypng](https://tinypng.com/) - PNG格式图片在线压缩
 
 
 # Markdown
