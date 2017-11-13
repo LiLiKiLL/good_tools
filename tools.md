@@ -48,6 +48,7 @@
 - [Faststone Capture](http://faststone.org/) - 截图录屏软件
 - [IrfanView](http://www.irfanview.com/) - 图片查看和编辑
 - [tinypng](https://tinypng.com/) - PNG格式图片在线压缩
+- [placeholder.com](https://placeholder.com/) - 图片占位 - 使用格式:http://via.placeholder.com/350x150
 
 
 # Markdown
