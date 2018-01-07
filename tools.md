@@ -21,6 +21,9 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - Git GUI
 - [VirtualBox](https://www.virtualbox.org/) - 虚拟机
 - [Markup Validation Service | W3C](https://validator.w3.org/) - W3C HTML 标记规范在线检测
+- [CSS Validation Service | W3C](http://jigsaw.w3.org/css-validator/) - W3C CSS 规则验证器
+- [HSL to RGB / RGB to HSL / Hex Colour Converter](http://serennu.com/colour/hsltorgb.php) - HSL/RGB/HEX 颜色转换器
+- [CSS color keywords | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords) - CSS 完整颜色关键词
 
 
 # Editor | 编辑器
@@ -49,6 +52,7 @@
 - [IrfanView](http://www.irfanview.com/) - 图片查看和编辑
 - [tinypng](https://tinypng.com/) - PNG格式图片在线压缩
 - [placeholder.com](https://placeholder.com/) - 图片占位 - 使用格式:http://via.placeholder.com/350x150
+- [iconsdb.com](https://www.iconsdb.com/) - 图标库，可搜索，定制大小和颜色以及格式
 
 
 # Markdown
@@ -70,6 +74,10 @@
 - [iTerm2](https://iterm2.com/) - MacOS
 - [SecureCRT](https://www.vandyke.com/products/securecrt/)
 - [XShell](http://www.netsarang.com/products/xsh_overview.html) - Windows
+
+
+# SVG
+- [SVG Art Gallery](http://www1.plurib.us/svg_gallery/) - 使用 SVG 创作的画作
 
 
 # Other | 其他
