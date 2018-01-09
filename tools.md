@@ -21,9 +21,11 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - Git GUI
 - [VirtualBox](https://www.virtualbox.org/) - 虚拟机
 - [Markup Validation Service | W3C](https://validator.w3.org/) - W3C HTML 标记规范在线检测
+- [CSS Lint](http://csslint.net/) - CSS 语法在线检测工具
 - [CSS Validation Service | W3C](http://jigsaw.w3.org/css-validator/) - W3C CSS 规则验证器
 - [HSL to RGB / RGB to HSL / Hex Colour Converter](http://serennu.com/colour/hsltorgb.php) - HSL/RGB/HEX 颜色转换器
 - [CSS color keywords | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords) - CSS 完整颜色关键词
+- [cssfontstack.com](https://www.cssfontstack.com/) - 可用在 Windows 和 Mac 操作系统上使用的网页安全字体的列表
 
 
 # Editor | 编辑器
@@ -46,6 +48,20 @@
 - [WinSCP](https://winscp.net) - Windows
 
 
+# Font | 字体
+- [Font Squirre](https://www.fontsquirrel.com/) - 免费字体
+- [dafont](https://www.dafont.com/) - 免费字体
+- [Everything Fonts](https://everythingfonts.com/) - 免费字体
+- [fonts.com](https://www.fonts.com/) - 收费字体
+- [myfonts.com](http://www.myfonts.com/) - 收费字体
+- [Monotype](http://www.monotype.com/) - 收费字体厂商
+- [Linotype](https://www.linotype.com/) - 收费字体厂商
+- [Exljbris](https://www.exljbris.com/) - 收费字体厂商
+- [Typekit](https://typekit.com/) - 在线字体服务
+- [Cloud.typography](https://www.typography.com/cloud/welcome/) - 在线字体服务
+- [Google Fonts](https://www.google.com/fonts) - 在线字体服务
+
+
 # Image tools | 图片工具
 - [easyicon](http://www.easyicon.net/) - 图标下载
 - [Faststone Capture](http://faststone.org/) - 截图录屏软件
@@ -53,6 +69,7 @@
 - [tinypng](https://tinypng.com/) - PNG格式图片在线压缩
 - [placeholder.com](https://placeholder.com/) - 图片占位 - 使用格式:http://via.placeholder.com/350x150
 - [iconsdb.com](https://www.iconsdb.com/) - 图标库，可搜索，定制大小和颜色以及格式
+- [icons8.com](https://icons8.com/) - 图标搜索下载
 
 
 # Markdown
