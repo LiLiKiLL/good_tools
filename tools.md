@@ -74,6 +74,12 @@
 - [icons8.com](https://icons8.com/) - 图标搜索下载
 
 
+# Javascript library | JavaScript 库
+- [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/) - 2D物理引擎库
+- [matter.js](http://brm.io/matter-js/) - 2D物理引擎库
+- [Phaser](http://phaser.io/) - 2D物理引擎库
+
+
 # Markdown
 - [Typora](https://typora.io/)
 
