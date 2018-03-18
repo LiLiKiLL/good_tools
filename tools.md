@@ -9,6 +9,8 @@
 - [Navicat](https://navicat.com) - MySQL, MariaDB, SQL Server, SQLite, Oracle, PostgreSQL
 - [Keylord](https://protonail.com/) - Redis, Memcached, Bolt, LevelDB
 - [Redis Desktop Manager](https://redisdesktop.com/) - Redis
+- [HeidiSQL](https://www.heidisql.com/) -  Windows, 免费, 支持 MySQL, MSSQL, PostgreSQL
+- [Sequel Pro](http://www.sequelpro.com/) - MacOS, 开源, 支持 MySQL
 
 
 # Developer | 开发者工具
@@ -28,6 +30,7 @@
 - [cssfontstack.com](https://www.cssfontstack.com/) - 可用在 Windows 和 Mac 操作系统上使用的网页安全字体的列表
 - [WebGL Samples](http://webglsamples.org/) - WebGL 实例网站
 - [JSONLint](https://jsonlint.com/) - JSON 格式在线校验
+- [Live DOM Viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/) - 在线 HTML DOM 视图
 
 
 # Editor | 编辑器
@@ -109,3 +112,5 @@
 - [EasyBCD](http://neosmart.net/EasyBCD/) - 磁盘管理/多系统环境管理
 - [Potplayer](http://potplayer.daum.net) - 视频播放器
 - [SPlayer-射手播放器](https://splayer.org/)
+- [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) - 轻巧的 PDF 阅读器
+
