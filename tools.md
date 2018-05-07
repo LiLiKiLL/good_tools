@@ -85,6 +85,7 @@
 
 # Mac
 - [Dr. Cleaner](https://www.drcleaner.com/) - Mac 系统内存管理、磁盘清理、系统监控 APP
+- [Kap](https://getkap.co/) - Mac 录屏软件
 
 
 # Markdown
